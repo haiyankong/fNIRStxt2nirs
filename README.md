@@ -85,24 +85,24 @@ Set **homer2**  in the path of MATLAB2013b.
 
 If the optodes arrangement of your experiment is as follows:
 
-![image](https://github.com/HaiyanKong/tutorial_fNIRStxt2nirs/blob/main/error/1.png)
+![image](/asset/15.png)
 
 Then your SD file arrangement must correspond one-to-one:
 
-![image](https://github.com/HaiyanKong/tutorial_fNIRStxt2nirs/blob/main/error/2.png)
+![image](/asset/16.png)
 
 If the arrangements are totally inconsistent, for example:
 
-![image](https://github.com/HaiyanKong/tutorial_fNIRStxt2nirs/blob/main/error/3.png)
+![image](/asset/17.png)
 
 The error will be:
 
-![image](https://github.com/HaiyanKong/tutorial_fNIRStxt2nirs/blob/main/error/4.png)
+![image](/asset/18.png)
 
 If the arrangements are consistent but the channel numbers in the SD file are inconsistent, for example:
 
-![image](https://github.com/HaiyanKong/tutorial_fNIRStxt2nirs/blob/main/error/5.png)
+![image](/asset/19.png)
 
 The error will be:
 
-![image](https://github.com/HaiyanKong/tutorial_fNIRStxt2nirs/blob/main/error/6.png)
+![image](/asset/20.png)
